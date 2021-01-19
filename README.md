@@ -1,7 +1,7 @@
 # ECE-300-Communication-Theory
-Project for ECE-300: Communication Theory
+Final project for ECE-300: Communication Theory
 
-## Project Description: Communication Link
+## Project Description
 - Designed and simulated a communication link in MATLAB
 
 - Optimized communication link to meet a desired bit error rate (BER).
