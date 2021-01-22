@@ -1,6 +1,7 @@
 # Communication Link
 
 Final project for ECE-300: Communication Theory
+
 Team: Ivan Chowdhury, Hanoch Goldfarb
 
 ## Project Description
