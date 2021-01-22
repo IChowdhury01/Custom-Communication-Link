@@ -11,7 +11,9 @@ Team: Ivan Chowdhury, Hanoch Goldfarb
 
 - Maximized total number bit rate through the channel.
 
+## Instructions
 
-## Course Description
-Information theory: entropy, information, channel capacity, rate-distortion functions, theoretical limits to data transmission and compression. Error control coding: block, cyclic and convolutional codes, Viterbi algorithm. Baseband and bandpass signals, signal constellations, noise and channel models. Analog and digital modulation formats (amplitude, phase and frequency), MAP and ML receivers, ISI and equalization. Coherent and non- coherent detection, carrier recovery and synchronization. Performance: computation of SNR, BER, power and bandwidth requirements. Multiple access schemes. OFDM.
-
+1. Install [MATLAB](https://www.mathworks.com/downloads/) with the communications toolbox (check during installation).
+2. Clone this repository.
+3. Open `CommLink.m` and `CommLinkP2.m` in MATLAB.
+4. Run both scripts.
